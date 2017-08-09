@@ -7,9 +7,7 @@ but I think it is good to have an inspiration wallpaper in your machine.
 It is also part of this idea of mine where everything is migrating
 even the images of your desktop from machine to machine.
 
- 
-* desktop
-	* GANs
+# desktop
 	* [brain](https://github.com/mxochicale/images/tree/master/desktop/brain)
 	* [deepLearning](https://github.com/mxochicale/images/tree/master/desktop/deepLearning)
 	* [future](https://github.com/mxochicale/images/tree/master/desktop/future)
@@ -17,5 +15,9 @@ even the images of your desktop from machine to machine.
 	* [.](x)
 	* [.](x)
 	* [.](x)
+
+# sth_x
+	* [i](0)
+
 
 
