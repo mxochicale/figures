@@ -1,13 +1,19 @@
 Image Repository
 ---
 
-These are some images that I would like to preserve in 
-this repository. It might be silly and perhaps a waste of resources, 
-but I think it is good to have an inspiration wallpaper in your machine. 
-It is also part of this idea of mine where everything is migrating
-even the images of your desktop from machine to machine.
+These are some images that I would like to preserve in
+this repository. The creation of this repository might be a bit silly and perhaps
+you it is such a waste of resources. I however like to think that is important
+to have an inspiration wallpaper in your machine. Another reason for this repo
+is that I am always migrating from different machines.
 
-# desktop
+# TODO
+- [ ] create a path tree in the readme for each of the files.
+
+
+
+# DRAFT PATH TREE
+
 * [brain](https://github.com/mxochicale/images/tree/master/desktop/brain)
 * [deepLearning](https://github.com/mxochicale/images/tree/master/desktop/deepLearning)
 * [future](https://github.com/mxochicale/images/tree/master/desktop/future)
@@ -21,3 +27,10 @@ even the images of your desktop from machine to machine.
 
 
 
+
+# inkscape in Ubuntu 16.04 x64
+```
+sudo add-apt-repository ppa:inkscape.dev/stable
+sudo apt update
+sudo apt install inkscape
+```
