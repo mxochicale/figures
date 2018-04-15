@@ -10,14 +10,20 @@ On the surface, you see an admirable diversity, but when have entered it, you ca
 Thus wrote the Danish polymath and later cleric Nicolaus Steno in his Discours sur l’Anatomie du Cerveau in 1669. 
 
 
+
+
+
 ![image]()
-Brain picking: Assorted mammalian brains, roughly to scale. 
+
+FIGURE: Brain picking: Assorted mammalian brains, roughly to scale. 
 The three biggest brains belong to elephant, human and dolphin. 
 Images adapted with permission from the University of Wisconsin and 
 Michigan State and National Museum of Health and 
-Medicine Comparative Mammalian Brain Collections (http://neurosciencelibrary.org/index.html).
+Medicine Comparative Mammalian Brain Collections 
+(http://neurosciencelibrary.org/index.html).
 
 
+## Reference
 
 ```
 @article{MADERSPACHER2016R945,
