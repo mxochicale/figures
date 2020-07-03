@@ -14,4 +14,4 @@ https://blog.snappa.com/twitter-header-size/
 # conversion
 
 
-inkscape vector/drawing_v00.svg --export-png output/drawing_v00.png
+inkscape vector/drawing.svg --export-png output/drawing_v01.png
