@@ -1,6 +1,6 @@
 # Versions
-## Latest version
-![vNN](drawing.png)
+## v01
+![v](drawing-v01.png)
 
 ## v00
-![vNN](drawing-v00.png)
+![v](drawing-v00.png)
