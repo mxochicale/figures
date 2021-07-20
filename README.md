@@ -1,13 +1,15 @@
-# Image Repository
-This repository contains a collection of images. The aim of this repository might be a bit silly. 
+# Figures 
+This repository contains a collection of images and figures. The aim of this repository might be a bit silly. 
 I however would like to think that is important as important as to choose 
 a nice image that lives in the wallpaper of your machine.
 Similarly, this repo is helpful to keep some nice images when I migrate to other machines.
+Last but not least, the template for figures is somethings recurrent I always makes me come back to this space.
 
 ## Clone repository
-After generating your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent), you can then clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
+After generating your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) or [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
+You can then clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
 ```
-git clone git@github.com:mxochicale/images.git
+git clone git@github.com:mxochicale/figures.git
 ```
 
 ## Tools for image creation
@@ -36,4 +38,4 @@ Alternatively, you can use the template [00_template-vector-images](00_template-
 If you have specific questions about the content of this repository, you can contact 
 [Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[images]"). 
 If your question might be relevant to other people, please instead 
-[open an issue](https://github.com/mxochicale/images/issues).
+[open an issue](https://github.com/mxochicale/figures/issues).
