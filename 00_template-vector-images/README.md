@@ -14,7 +14,8 @@ where `$NN` is the version of the drawing.
 ## Download template
 Open a terminal and type:
 ```
-cd ~/Desktop &&svn checkout https://github.com/mxochicale/figures/trunk/00_template-vector-images
+sudo apt install subversion # to use svn
+cd ~/Desktop && svn checkout https://github.com/mxochicale/figures/trunk/00_template-vector-images
 cd 00_template-vector-images && rm -rf .svn
 ```
 
