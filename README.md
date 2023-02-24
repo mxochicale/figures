@@ -12,18 +12,17 @@ cd && mkdir -p repositories/mxochicale && cd repositories/mxochicale
 git clone git@github.com:mxochicale/figures.git
 ```
 
-## Tools for image creation
-
-### inkscape in Ubunut*
+## Vector image edition with inkscape in Ubuntu*
 * Installation
 ```
-sudo add-apt-repository ppa:inkscape.dev/stable
-sudo apt update
-sudo apt install inkscape
+sudo add-apt-repository --yes ppa:inkscape.dev/stable
+sudo apt --yes update
+sudo apt --yes install inkscape
+sudo add-apt-repository --remove ppa:inkscape.dev/stable
 ```
-Alternative, you can also check https://github.com/mxochicale/tools/tree/main/inkscape for installation in other versiosn of Ubuntu!
+Alternative, you might like to check https://github.com/mxochicale/tools/tree/main/inkscape for installation in other versions of Ubuntu!
 
-# Usage
+## Usage
 Once installed, you create a drawing, you can convert it easily in the terminal using the following commands!
 ```
 make png
