@@ -1,6 +1,7 @@
-# Vector figures
+# Drawing figures
 
 ## Notes
+> to add notes of the version of the drawings or some sort of message related to the vector files
 
 ## Usage 
 ```

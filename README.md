@@ -23,7 +23,7 @@ sudo add-apt-repository --remove ppa:inkscape.dev/stable
 Alternative, you might like to check https://github.com/mxochicale/tools/tree/main/inkscape for installation in other versions of Ubuntu!
 
 ## Usage
-Once installed, you create a drawing, you can convert it easily in the terminal using the following commands!
+Once installed, you can create a vector drawing and convert it easily in the terminal using the following commands!
 ```
 make png
 make pdf
