@@ -1,0 +1,2 @@
+# Animated GIFs in inkscape
+

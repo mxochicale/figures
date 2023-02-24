@@ -12,7 +12,7 @@ cd && mkdir -p repositories/mxochicale && cd repositories/mxochicale
 git clone git@github.com:mxochicale/figures.git
 ```
 
-## Vector image edition with inkscape in Ubuntu*
+## Installing inkscape in Ubuntu*
 * Installation
 ```
 sudo add-apt-repository --yes ppa:inkscape.dev/stable
@@ -21,6 +21,12 @@ sudo apt --yes install inkscape
 sudo add-apt-repository --remove ppa:inkscape.dev/stable
 ```
 Alternative, you might like to check https://github.com/mxochicale/tools/tree/main/inkscape for installation in other versions of Ubuntu!
+
+## Installing GIMP
+```
+sudo apt-get update 
+sudo apt-get install gimp
+```
 
 ## Usage
 Once installed, you can create a vector drawing and convert it easily in the terminal using the following commands!
