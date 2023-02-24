@@ -13,7 +13,7 @@
 ![fig](spinner_animated_200ms.gif)
 
 * 500ms
-![fig](spinner_animated_050ms.gif)
+![fig](spinner_animated_500ms.gif)
 
 
 ## References
