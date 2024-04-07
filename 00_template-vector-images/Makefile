@@ -1,4 +1,3 @@
-
 OS_VERSION:=$(shell lsb_release -a 2>/dev/null | grep Description | awk '{ print $$2 "-" $$3 }')
 $(eval $(shell grep VERSION_ID /etc/os-release))
 #ifeq ($(VERSION_ID), 22.04)

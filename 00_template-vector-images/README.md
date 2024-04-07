@@ -36,9 +36,9 @@ tree -s
 
 ## Download template
 Open a terminal and type:
+Download [https://ssgithub.com/mxochicale/figures/tree/main/00_template-vector-images](https://ssgithub.com/mxochicale/figures/tree/main/00_template-vector-images)
 ```
-cd ~/Desktop &&svn checkout https://github.com/mxochicale/figures/trunk/00_template-vector-images
-cd 00_template-vector-images && rm -rf .svn
+unzip 00_template-vector-images.zip
 ```
 
 # References
